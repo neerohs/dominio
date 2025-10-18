@@ -1,4 +1,4 @@
 Sistema em Manutenção
 Estamos em manutenção voltaremos em breve!
-msgON
+msgOFF
 StatusON
